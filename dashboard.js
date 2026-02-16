@@ -44,7 +44,7 @@ function redirectToSection(section) {
 function logout() {
     // You can add the logout functionality here
     // For example, redirect to the login page or clear user session
-    window.location.href = 'login.html'; // Example: redirecting to login page
+    window.location.href = 'index.html'; // Example: redirecting to login page
 }
 
 
